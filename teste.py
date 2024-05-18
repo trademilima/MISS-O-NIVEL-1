@@ -1,0 +1,6 @@
+print("Hello World")
+print("Hello Python Code")
+print(1+1)
+print(45*8)
+print(78965/4)
+print(895-458)
