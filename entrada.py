@@ -1,0 +1,5 @@
+name=input('Digite seu nome:')
+idade=input('Digite sua idade:')
+civilmente=input('Digite seu estado civil:')
+filhas=input('Digite quantas filhas tem:')
+print('Olá,'+name+'.Você tem '+idade+' anos,'' é '+civilmente+' e tem '+filhas+' filhas')
